@@ -1,0 +1,6 @@
+{
+  "name": "시트방명록 (SheetGuestbook)",
+  "description": "구글 스프레드시트를 실시간 데이터베이스로 사용하는 감성 방명록 및 응원 게시판 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
